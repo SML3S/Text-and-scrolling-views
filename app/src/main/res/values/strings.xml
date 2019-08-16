@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Scrolling</string>
+    <string name="article_title"><i>Projeto abuso de autoridade</i></string>
+    <string name="article_subtitle"><i>Congresso nacional</i></string>
+    <string name="article_text">
+        Informações: www.rockument.com \n
+        \n
+        <i>Documento foi apresentado por técnicos em reunião com deputados na quarta-feira.\n
+            Relator do projeto disse no encontro que havia um acordo para aprovar o texto do \n
+            Senado sem mudanças.</i> \n
+        <b>o artigo 13</b>, que diz que é abuso de autoridade constranger o preso\n
+        ou o detento, mediante violência, grave ameaça ou redução de sua capacidade a produzir \n
+        prova contra si mesmo ou contra terceiro. Os técnicos do MJ afirmam que esse artigo tem \n
+        \"forte carga subjetiva\" e que \"levado ao extremo esse dispositivo pode afastar a \n
+        obrigação legal de o preso a fornecer impressões digitais\".\n
+        <b>o artigo 17</b>, que trata do uso de algema em suspeitos que não oferecerem resistência \n
+        à prisão. Os técnicos dizem no documento que \"o uso de algemas depende da avaliação\n e que \n
+        o artigo \"deve ser suprimido\".\n
+        <b>o artigo 30</b>, que pune o início da persecução penal sem justa causa fundamentada. \n
+        Os técnicos afirmam que \"o uso de conceitos abertos como \'sem justa causa fundamentada\',\n
+        pode dar margem a interpretações equivocadas de quem se sensibiliza com uma das partes\".\n
+        \n
+        \n
+        O relator, Ricardo Barros, confirmou que se reuniu com os técnicos e que os argumentos \n
+        foram apresentados aos parlamentares em uma reunião na liderança do governo na Câmara.\n
+
+Segundo ele, diversos deputados queriam fazer ajustes no texto e defendiam mais tempo de debate \n
+        antes da votação do texto, o que não ocorreu.\n
+
+Barros disse ainda que havia um acordo no Congresso, costurado em junho, para que o texto fosse \n
+        aprovado na Câmara da forma como veio do Senado, ou seja, sem nenhuma mudança. O acordo foi\n
+        feito por líderes para evitar que o texto tivesse de ser analisado novamente pelos senadores.\n
+    </string>
+</resources>
